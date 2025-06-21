@@ -1,0 +1,16 @@
+# Stock Analysis Dashboard
+
+This project analyzes Tesla and GameStop (GME) stock performance using Python.  
+Each section includes the code and its result (image).
+
+## Tesla
+- [Tesla Data Code](tesla/tesla_data_code.py)
+- [Tesla Data Screenshot](tesla/tesla_data.png)
+
+## GameStop
+- [GME Revenue Code](gme/gme_revenue_code.py)
+- [GME Revenue Screenshot](gme/gme_revenue.png)
+
+## Graphs
+- [Tesla Stock Graph](graphs/tesla_graph.png)
+- [Code to Generate Tesla Graph](graphs/tesla_graph_code.py)
